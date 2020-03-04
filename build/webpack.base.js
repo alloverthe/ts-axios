@@ -71,5 +71,5 @@ module.exports = {
     resolve: {
         extensions: [".js", ".ts", ".tsx"]
     },
-    devtool:isDev?"inline-souce-map":false
+    devtool:isDev?"inline-source-map":false
 }
